@@ -1,4 +1,7 @@
 # purescript-apexcharts
+
+[![Build Status](https://travis-ci.com/timdeputter/purescript-apexcharts.svg?branch=master)](https://travis-ci.com/timdeputter/purescript-apexcharts)
+
 Purescript bindings for apexcharts.js - "A modern JavaScript charting library to build interactive charts and visualizations with simple API" (https://apexcharts.com)
 </br>
 
